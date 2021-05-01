@@ -1,0 +1,29 @@
+html,
+body,
+.result {
+    width: 800;
+    height: 800;
+}
+#viewDiv {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#infoDiv {
+    padding: 10px;
+    width: 275px;
+}
+
+#sliderValue {
+    font-weight: bolder;
+}
+
+#legendDiv {
+    width: 260px;
+}
+
+#description {
+    padding: 10px 0 10px 0;
+}
